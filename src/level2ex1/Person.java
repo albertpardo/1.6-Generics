@@ -1,4 +1,4 @@
-package level1ex2;
+package level2ex1;
 
 public class Person {
     private String name;
