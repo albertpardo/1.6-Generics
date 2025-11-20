@@ -29,6 +29,20 @@ Modify the previous exercise so that one of the arguments of the generic method 
 
 Modify the previous section so that the arguments of the generic method are a list of arguments of indefinite variables.
 
+* * *
+
+### Level 3
+
+#### Exercise 1
+
+For this exercise, you need an interface named **Phone** and three classes: **Smartphone**, **Generic**, and **Main**.
+
+The **Phone** interface should have a method named **call()**. The **Smartphone** class must implement **Phone**, and in addition to the **call()** method, it should also have a method **takePhotos()**.
+
+The **Generic** class should have two generic methods; the first must accept an argument type limited by the **Phone** interface, and the second must accept an argument limited by the **Smartphone** class. From these two methods, call the appropriate methods of **Phone** and **Smartphone**. In the main() of the **Main** class, pass an object of the **Smartphone** class to both generic methods of the **Generic** class.
+
+Can the method limited by the **Phone** interface in the **Generic** class call the **takePhotos()** method?
+
 ## 📋 Requirements
 
 Developed with:
