@@ -1,6 +1,8 @@
-package level3ex1;
+package level3ex1.model;
 
-public class Smartphone implements Phone{
+import level3ex1.interfaces.Phone;
+
+public class Smartphone implements Phone {
     private String name;
 
     public Smartphone(String name){

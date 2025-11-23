@@ -1,4 +1,4 @@
-package level2ex2;
+package level2ex2.model;
 
 public class GenericMethods {
     @SafeVarargs

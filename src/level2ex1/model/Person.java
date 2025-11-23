@@ -1,4 +1,4 @@
-package level2ex1;
+package level2ex1.model;
 
 public class Person {
     private String name;

@@ -1,4 +1,4 @@
-package level1ex1;
+package level1ex1.model;
 
 public class NoGenericMethods {
     private String string1;

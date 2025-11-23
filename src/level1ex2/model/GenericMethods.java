@@ -1,4 +1,4 @@
-package level1ex2;
+package level1ex2.model;
 
 public class GenericMethods {
     public static <T1, T2, T3> void genericPrint(T1 varOne, T2 varTwo, T3 varThree){

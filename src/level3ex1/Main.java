@@ -1,6 +1,7 @@
 package level3ex1;
 
-import java.sql.SQLSyntaxErrorException;
+import level3ex1.model.Generic;
+import level3ex1.model.Smartphone;
 
 public class Main {
     public static void  main(String[] args){

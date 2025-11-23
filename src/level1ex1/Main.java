@@ -1,5 +1,7 @@
 package level1ex1;
 
+import level1ex1.model.NoGenericMethods;
+
 public class Main {
     public static void main(String[] args){
         NoGenericMethods noGenericMethods1 = new NoGenericMethods("Hello" , "Question?", "Say something");
